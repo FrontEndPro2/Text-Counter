@@ -38,3 +38,24 @@ Make sure you have Node.js and npm installed on your machine.
 
    ```bash
    git clone https://github.com/your-username/text-converter-app.git
+
+2. **Navigate to the Directory:** Change into the project directory:
+
+3. **Install Dependencies:** Install the required dependencies using npm:
+
+4. **Run the App:** Launch the app by running the development server:
+
+5. **Access the App:** Open your web browser and go to [http://localhost:3000](http://localhost:3000) to use the Text Converter App.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas for improvements, new features, bug fixes, or any other suggestions, please feel free to open an issue or submit a pull request. Before contributing, make sure to review our [Contributing Guidelines](./CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](./LICENSE) file.
+
+## Contact Us
+
+If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us at [contact@example.com](mailto:contact@example.com). We'd love to hear from you and help with any inquiries you may have!
+   
